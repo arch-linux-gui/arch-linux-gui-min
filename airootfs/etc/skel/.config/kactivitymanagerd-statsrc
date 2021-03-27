@@ -1,0 +1,5 @@
+[Favorites-org.kde.plasma.kicker.favorites.instance-20-9b64aecd-f9a7-444f-8e88-20d7e088bbe7]
+ordering=preferred://browser,kontact.desktop,systemsettings.desktop,org.kde.dolphin.desktop,ktp-contactlist.desktop,org.kde.kate.desktop,org.kde.discover
+
+[Favorites-org.kde.plasma.kicker.favorites.instance-20-global]
+ordering=preferred://browser,kontact.desktop,systemsettings.desktop,org.kde.dolphin.desktop,ktp-contactlist.desktop,org.kde.kate.desktop,org.kde.discover
