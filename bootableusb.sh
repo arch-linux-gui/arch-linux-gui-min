@@ -34,5 +34,5 @@ cd out
 sudo dd if=archlinux-gui-$(date +%Y.%m.%d)-x86_64.iso of=/dev/sdb status='progress'
 
 
-echo "D O N E! Your USB should be bootable now, with arch-linux-GUI."
+echo "D O N E! Your USB should be bootable now, with Arch Linux GUI."
 echo "Thank YOU!"
