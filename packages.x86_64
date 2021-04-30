@@ -125,3 +125,6 @@ grub
 calamares
 alg-min-cala-config
 os-prober
+
+#Browser
+firefox
