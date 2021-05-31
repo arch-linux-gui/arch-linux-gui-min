@@ -119,6 +119,7 @@ dolphin
 dolphin-plugins
 xdg-user-dirs
 spectacle
+packagekit-qt5
 
 #Installer
 grub
