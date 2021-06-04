@@ -120,6 +120,7 @@ dolphin-plugins
 xdg-user-dirs
 spectacle
 packagekit-qt5
+neofetch
 
 #Installer
 grub
